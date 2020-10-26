@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RPS
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=cpu\ human
+comment2.target=void\ win(int,\ int)
+comment3.params=cpu\ human
+comment3.target=void\ loss(int,\ int)
+comment4.params=cpu\ human
+comment4.target=void\ draw(int,\ int)
+numComments=5
